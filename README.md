@@ -1,7 +1,5 @@
 
-<h1 align="center">Vitor Andreola</h1>
-<h3 align="center">Front-end developer</h3>
-
+<h1 align="center">Front-End Developer</h1>
 
 - 🌱 Atualmente estudando **React**
 
