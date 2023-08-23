@@ -1,7 +1,7 @@
 
 <h1 align="center">Front-End Developer</h1>
 
-- 🌱 Atualmente estudando **React**
+- 🌱 Atualmente estudando **JavaScript**
 
 - 📫 Entre em contato **dev-andreola@gmail.com**
 
