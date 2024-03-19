@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor Andreola</h1>
 <h3 align="center">Systems Analysis and Development Student</h3>
 
-- 🔭 I’m currently studying at **FIAP**
-
 - 🌱 I’m currently learning **Javascript (React, Next.js)**
 
 - 📫 How to reach me **dev.andreola@gmail.com**
