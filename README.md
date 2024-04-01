@@ -17,7 +17,8 @@
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![Shadcn](https://img.shields.io/badge/-Shadcn/ui-black?style=flat-square&logo=shadcn/ui&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
