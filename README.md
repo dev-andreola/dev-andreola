@@ -7,7 +7,7 @@
 
     Olá meu nome é Vitor Andreola, Desenvolvedor Fullstack JavaScript e estudante de ADS.
     /
-    Hello my name is Vitor Andreola, Fullstack JavaScript Developer and ADS student.
+    Hello my name is Vitor Andreola, Fullstack JavaScript Developer and Systems Analysis and Development student.
 
 ## Conhecimentos / Knowledges
 
