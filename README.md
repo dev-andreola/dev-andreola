@@ -23,10 +23,10 @@
 [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![Shadcn](https://img.shields.io/badge/-Shadcn/ui-black?style=flat-square&logo=shadcn/ui&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
+[![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
-[![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
+[![Nextjs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
