@@ -5,9 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-andreola/)](https://www.linkedin.com/in/dev-andreola)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.andreola@gmail.com)](mailto:dev.andreola@gmail.com)
 
-    Olá meu nome é Vitor Andreola, Desenvolvedor Fullstack JavaScript e estudante de ADS.
+    Olá meu nome é Vitor Andreola, Desenvolvedor Fullstack e estudante de ADS.
     /
-    Hello my name is Vitor Andreola, Fullstack JavaScript Developer and Systems Analysis and Development student.
+    Hello my name is Vitor Andreola, Fullstack Developer and Systems Analysis and Development student.
 
 ## Conhecimentos / Knowledges
 
