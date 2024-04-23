@@ -32,7 +32,7 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
 
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=white&link=https://github.com/dev-andreola/)](https://github.com/dev-andreola/)
