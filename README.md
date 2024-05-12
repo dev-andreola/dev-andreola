@@ -2,7 +2,7 @@
 
 # Sobre Mim
 
-:man_technologist: Desenvolvedor Full Stack
+:man_technologist: Desenvolvedor Front End
 
 :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na FIAP
 
