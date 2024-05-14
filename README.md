@@ -6,7 +6,7 @@
 
 :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na FIAP
 
-:bookmark_tabs: Atualmente estudando Oracle SQL
+:bookmark_tabs: Atualmente estudando Banco de Dados
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-andreola/)](https://www.linkedin.com/in/dev-andreola)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.andreola@gmail.com)](mailto:dev.andreola@gmail.com)
