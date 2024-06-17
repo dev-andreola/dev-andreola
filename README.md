@@ -15,7 +15,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/dev-andreola/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/dev-andreola/)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white&link=https://github.com/dev-andreola/)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&link=https://github.com/dev-andreola/)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white&link=https://github.com/dev-andreola/)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white&link=https://github.com/dev-andreola/)
